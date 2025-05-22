@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1747892491773,
+    "name": "123",
+    "email": "123@ukr.net",
+    "password": "123456",
+    "gender": "male",
+    "birthdate": "2025-05-23",
+    "registeredAt": "2025-05-22T05:41:31.773Z"
+  },
+  {
+    "id": 1747892590451,
+    "name": "1234",
+    "email": "1234@ukr.net",
+    "password": "123456",
+    "gender": "female",
+    "birthdate": "2025-05-16",
+    "registeredAt": "2025-05-22T05:43:10.451Z"
+  },
+  {
+    "id": 1747893165157,
+    "name": "12345",
+    "email": "12345@ukr.net",
+    "password": "123456",
+    "gender": "male",
+    "birthdate": "2025-05-24",
+    "registeredAt": "2025-05-22T05:52:45.157Z"
+  },
+  {
+    "id": 1747894462044,
+    "name": "test",
+    "email": "123456@ukr.net",
+    "password": "123456",
+    "gender": "male",
+    "birthdate": "2025-05-01",
+    "registeredAt": "2025-05-22T06:14:22.044Z"
+  }
+]
